@@ -1,5 +1,5 @@
 # Clean_Data_Sets_for_Molecular_Classification
-A collection of 15 clean benchmark data sets for binary classification tasks on molecules (represented as SMILES strings). Most of these data sets are canonically used in publications in the area of molecular machine learning to validate methods and compare the performance of computational classification methods.
+A collection of 15 clean benchmark data sets for binary classification tasks on molecules (represented as SMILES strings). Most of these data sets are canonically used in publications in the area of molecular machine learning to validate and compare computational classification techniques.
 
 Each folder corresponds to one data set and contains the following items:
 
