@@ -16,7 +16,7 @@ The file "overview.csv" gives some basic information about the chosen data sets:
 - One data set relates to drugs which have been shown experimentally to extend the life span of C. elegans according to a 2017 paper (contained).
 - One data set relates to inhibition of SARS-CoV-2 main protease and was constructed by the author from data published by the Diamond Light Source.
 
-Finally, a Jupyter lab notebook called "data_preprocessing" with Python code is contained which provides computational pipelines to automatically load the data sets and bring them into a useful form for machine learning. This notebook encompasses methods for each data set 
+Finally, a Jupyter lab notebook called "data_pipeline" with Python code is contained which provides computational pipelines to automatically load the data sets and bring them into a useful form for machine learning. This notebook encompasses methods for each data set 
 
 - to import the data set into a pandas dataframe,
 - to check for and remove invalid SMILES (there is none in most data sets),
