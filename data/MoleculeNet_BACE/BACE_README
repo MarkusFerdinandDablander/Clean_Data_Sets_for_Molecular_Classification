@@ -1,0 +1,3 @@
+The BACE dataset provides quantitative (IC50) and qualitative (binary label) binding results for a set of inhibitors of human β-secretase 1 (BACE-1).51 All data are experimental values reported in scientific literature over the past decade, some with detailed crystal structures available. We merged a collection of 1522 compounds with their 2D structures and binary labels in MoleculeNet, built as a classification task. Similarly, regarding a single protein target, scaffold splitting will be more practically useful.
+
+Reference: Subramanian, G.; Ramsundar, B.; Pande, V.; Denny, R. A. Journal of Chemical Infor- mation and Modeling 2016, 56, 1936–1949.

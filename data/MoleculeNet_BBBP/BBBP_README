@@ -1,0 +1,4 @@
+The Blood-brain barrier penetration (BBBP) dataset comes from a recent study on the modeling and prediction of the barrier permeability. As a membrane separating circulating blood and brain extracellular fluid, the blood-brain barrier blocks most drugs, hormones and neurotransmitters. Thus penetration of the barrier forms a long-standing issue in develop- ment of drugs targeting central nervous system. This dataset includes binary labels for over 2000 compounds on their permeability properties. Scaffold splitting is also recommended for this well-defined target.
+
+
+Reference: Martins, I. F.; Teixeira, A. L.; Pinheiro, L.; Falcao, A. O. Journal of Chemical Information and Modeling 2012, 52, 1686–1697.
