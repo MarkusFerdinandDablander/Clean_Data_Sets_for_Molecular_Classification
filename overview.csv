@@ -1,18 +1,18 @@
-Dataset Name,Description,Number of Positives,Number of Negatives,Comments
-ChEMBL_hERG_IC50_data,Inhibition of hERG potassium channel,5013,4874,
-ChEMBL_SARS_CoV_2_Caco_2,Inhibitio of SARS-CoV-2 induced cytotoxicity in Caco-2 cells,273,5359,
-MoleculeNet_HIV,"Ability to inhibit HIV replication for over 40,000 compounds",1443,39684,
-MoleculeNet_BBBP,Ability of compound to penetrate the blood brain barrier,1560,479,
-MoleculeNet_BACE,Binding results for a set of inhibitors of human β-secretase 1,691,822,
-MoleculeNet_ClinTox,FDA approval or rejection due to toxicity,1384,94,"Statstics apply to the target “FDA_Approved”, but data sets also contains other targets"
-MoleculeNet_Tox21,Toxicity prediction for several biological systems,237,6521,"Statstics apply to the target “NR-AR-LBD”, but data sets also contains other targets"
-MoleculeNet_SIDER,Side effects across 27 different organ systems,1024,403,"Statstics apply to the target “Immune system disorders”, but data sets also contains other targets"
+Dataset Name,Description,Number of Positives,Number of Negatives,Fraction of Positives in %,Comments
+ChEMBL_hERG_IC50_data,Inhibition of hERG potassium channel,5013,4874,50.7029432588247,
+ChEMBL_SARS_CoV_2_Caco_2,Inhibitio of SARS-CoV-2 induced cytotoxicity in Caco-2 cells,273,5359,4.84730113636364,
+MoleculeNet_HIV,"Ability to inhibit HIV replication for over 40,000 compounds",1443,39684,3.50864395652491,
+MoleculeNet_BBBP,Ability of compound to penetrate the blood brain barrier,1560,479,76.5080922020598,
+MoleculeNet_BACE,Binding results for a set of inhibitors of human β-secretase 1,691,822,45.6708526107072,
+MoleculeNet_ClinTox,FDA approval or rejection due to toxicity,1384,94,93.6400541271989,"Statstics apply to the target “FDA_Approved”, but data sets also contains other targets"
+MoleculeNet_Tox21,Toxicity prediction for several biological systems,237,6521,3.50695472033146,"Statstics apply to the target “NR-AR-LBD”, but data sets also contains other targets"
+MoleculeNet_SIDER,Side effects across 27 different organ systems,1024,403,71.7589348283111,"Statstics apply to the target “Immune system disorders”, but data sets also contains other targets"
 MoleculeNet_MUV,"Contains 17 challenging tasks for around 90 thousand compounds and is specifically
-designed for validation of virtual screening techniques",27,14814,"Statstics apply to the target “MUV-466”, but data sets also contains other targets"
-Benchmark_Paper_2018_hERG_T2,Inhibition of hERG potassium channel,4096,1708,
+designed for validation of virtual screening techniques",27,14814,0.181928441479685,"Statstics apply to the target “MUV-466”, but data sets also contains other targets"
+Benchmark_Paper_2018_hERG_T2,Inhibition of hERG potassium channel,4096,1708,70.5720192970365,
 Benchmark_Paper_2009_Ames_Mutagenicity,"Outcome of the bacterial reverse mutation assay (Ames test ) to
-detect mutagenicity in vitro",3503,3009,
-PTC (MR/FR/MM/FM),Chemical carcinogenesis,152,192,"Statstics apply to the data subset “MR” (= Male Rat), but data sets also contains three other subsets"
-MUTAG,Mutagenic activity,125,63,
-Paper_2017_Life_Extension,Life-extending effect of chemical compounds in C. Elegans,229,1166,
-Diamond_Light_Source_Sars_Cov_2_Mpro,Ability of compound to inhibit SARS-CoV-2 Mpro,113,1642,
+detect mutagenicity in vitro",3503,3009,53.7929975429976,
+PTC (MR/FR/MM/FM),Chemical carcinogenesis,152,192,44.1860465116279,"Statstics apply to the data subset “MR” (= Male Rat), but data sets also contains three other subsets"
+MUTAG,Mutagenic activity,125,63,66.4893617021277,
+Paper_2017_Life_Extension,Life-extending effect of chemical compounds in C. Elegans,229,1166,16.415770609319,
+Diamond_Light_Source_Sars_Cov_2_Mpro,Ability of compound to soak into SARS-CoV-2 Mpro crystal and form crystal structure,113,1642,6.43874643874644,
